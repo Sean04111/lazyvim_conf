@@ -140,6 +140,7 @@ return {
         "gomod",
         "gowork",
         "gosum",
+        "cpp",
       },
     },
   },
